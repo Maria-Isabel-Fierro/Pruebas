@@ -1,4 +1,5 @@
-#EasyFlowQA
+<em> # EasyFlowQA </em>
+
 Este proyecto es una colección de pruebas automatizadas sencillas creadas para la práctica, utilizando páginas de prueba populares como DemoQA y ToolsQA. Implementado con tecnologías como Java y PageFactory, este proyecto está diseñado para ofrecer ejemplos claros y efectivos de automatización de pruebas en diversos escenarios.
 
 ##Características Destacadas
